@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IPAddressInfo">2e34bcbb2fd301101d022d6df699b60f</application>
+        <filter/>
+        <name>IPAddressInfo1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_805571_iplookup.ipaddressinfo1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 04:26:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6f8f88f02fe301101d022d6df699b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfo1s</sys_name>
+        <sys_package display_value="IPLookup" source="x_805571_iplookup">7c17fb272f1301101d022d6df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">7c17fb272f1301101d022d6df699b629</sys_scope>
+        <sys_update_name>sys_ui_module_6f8f88f02fe301101d022d6df699b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 04:26:14</sys_updated_on>
+        <table>x_805571_iplookup_ipaddressinfo1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
